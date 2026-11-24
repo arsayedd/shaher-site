@@ -1,6 +1,0 @@
-{
-  "redirects": [
-    { "source": "/", "destination": "https://growthmerce.com/team/shaher-rizk/", "permanent": true },
-    { "source": "/:path*", "destination": "https://growthmerce.com/team/shaher-rizk/", "permanent": true }
-  ]
-}
